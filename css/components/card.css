@@ -5,6 +5,8 @@
 .card{
 margin:15px;
 padding:30px;
+padding-bottom:10px;
+padding-top:10px;
 display:flex;
 align-items:center;
 justify-content:space-between;
